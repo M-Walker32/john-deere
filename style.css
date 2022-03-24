@@ -1,0 +1,44 @@
+#nav-link{
+  text-decoration: none!important;
+  color: green!important;
+}
+#adv{
+  margin-top: -250px!important;
+  text-shadow: 2px 2px black;
+}
+
+#thumbnail1{
+  margin-top: 250px!important;
+  margin-left: 20px;
+  text-shadow: 2px 2px black;
+}
+
+#thumbnail2{
+  margin-top: 50px!important;
+  margin-left: 20px;
+  text-shadow: 2px 2px black;
+}
+
+#thumbnail3{
+  margin-top: 35px!important;
+  margin-left: 20px;
+  text-shadow: 2px 2px black;
+}
+
+#thumbnail4{
+  margin-top: 35px!important;
+  margin-left: 20px;
+  text-shadow: 2px 2px black;
+}
+
+#thumbnail5{
+  margin-top: 25px!important;
+  margin-left: 20px;
+  text-shadow: 2px 2px black;
+}
+
+#thumbnail6{
+  margin-top: 25px!important;
+  margin-left: 20px;
+  text-shadow: 2px 2px black;
+}
